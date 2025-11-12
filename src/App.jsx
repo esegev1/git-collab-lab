@@ -12,6 +12,7 @@ function App() {
       <CreatePet />
        <section>Paragraph</section>
        <p>Something new</p>
+       <p>newer thing</p>
     </>
       )
      
