@@ -10,8 +10,10 @@ function App() {
   return (
     <>
       <CreatePet />
+       <section>Paragraph</section>
     </>
       )
+     
 }
 
 export default App
